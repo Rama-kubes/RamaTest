@@ -1,2 +1,2 @@
 # RamaTest
-Testone
+This is Test Purpose file.
